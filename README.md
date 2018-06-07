@@ -1,5 +1,6 @@
 ## Python, Django,
-## HTML, CSS, JavaScript, jQuery and Bootstrp 
+---
+## HTML, CSS, JavaScript, jQuery and Bootstrap 
 
 ---
 
