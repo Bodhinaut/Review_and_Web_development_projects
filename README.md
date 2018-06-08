@@ -6,12 +6,9 @@
 
 **Reviewed**
 
-⋅⋅*html basics
-⋅⋅*basic tagging
-⋅⋅*lists
-⋅⋅*spans
-⋅⋅*attributes
-
-
-⋅⋅* Unordered sub-list. 
+* html basics
+* basic tagging
+* lists
+* spans
+* attributes
 
