@@ -42,3 +42,13 @@
 * fonts
 * box models
 
+---
+
+* Bootstrap
+
+**Reviewed**
+
+* buttons
+* forms
+* navbars
+* grids
