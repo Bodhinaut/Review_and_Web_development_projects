@@ -1,6 +1,6 @@
 ## Python, Django,
 
-## HTML, CSS, JavaScript, jQuery and Bootslstrap 
+## HTML, CSS, JavaScript, jQuery and Bootstrap 
 
 * HTML_Level_One
 
@@ -65,3 +65,15 @@
 * while loops
 * for loops
 * excercises
+
+---
+
+* JavaScript_Level_Two
+
+**Reviewed**
+
+* functions
+* arrays
+* objects / 'dictionaries'
+
+---
