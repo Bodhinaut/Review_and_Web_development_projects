@@ -83,5 +83,13 @@
 * content
 * interact
 * events
+
+---
+
+* jQuery
+
+**Reviewed**
+* basic jQuery
+* events
 ---
 
