@@ -1,6 +1,6 @@
 ## Python, Django,
 
-## HTML, CSS, JavaScript, jQuery and Bootslstrap 
+## HTML, CSS, JavaScript, jQuery and Bootstrap 
 
 * HTML_Level_One
 
