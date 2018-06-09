@@ -81,7 +81,7 @@
 * Document_Object_Model
 
 **Reviewed**
-
+* vanilla js
 * content
 * interact
 * events
