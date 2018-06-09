@@ -65,3 +65,15 @@
 * while loops
 * for loops
 * excercises
+
+---
+
+* JavaScript_Level_Two
+
+**Reviewed**
+
+* functions
+* arrays
+* objects / 'dictionaries'
+
+---
